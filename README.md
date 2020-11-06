@@ -1,1 +1,1 @@
-# deep-learning-neural-network-mnist
+# deep-learning-neural-network
